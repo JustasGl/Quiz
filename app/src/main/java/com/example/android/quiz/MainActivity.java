@@ -230,6 +230,7 @@ public class MainActivity extends AppCompatActivity {
             Toast toast = Toast.makeText(this, getResources().getString(R.string.MADE_BY_JUSTAS_GLODENIS), Toast.LENGTH_SHORT);
             toast.show();
             }
+            ed.setText("");
     }
     public boolean chh1() {
         boolean c = ch1.isChecked();
