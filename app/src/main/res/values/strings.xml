@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="MADE_BY_JUSTAS_GLODENIS">Made by Justas Glodenis</string>
+    <string name="START_AGAIN">Start Again</string>
+    <string name="WRONG_ANSWERS">Wrong Answers:
+</string>
+    <string name="CORRECT_ANSWERS">Correct Answers:
+</string>
+    <string name="YOUR_ANSWER">&#160;Your Answer :&#160;</string>
+    <string name="RIGHT_ANSWER7">7. Right Answer: Lithuania </string>
+    <string name="RIGHT_ANSWER6">6. Right Answer: Angus Young and Chris Slade, </string>
+    <string name="RIGHT_ANSWER5">5. Right Answer: Optics, </string>
+    <string name="RIGHT_ANSWER4">4. Right Answer: 1945, </string>
+    <string name="RIGHT_ANSWER3">3. Right Answer: Gorillaz, </string>
+    <string name="RIGHT_ANSWER2">2. Right Answer: Apollo 11, </string>
+    <string name="RIGHT_ANSWER1">1. Right Answer: 1969, </string>
+
+    <string name="CHRIS_SLADE">&#160;Chris Slade</string>
+    <string name="ROGER_TAYLOR">&#160;Roger Taylor</string>
+    <string name="ANGUS_YOUNG">&#160;Angus Young</string>
+    <string name="BRIAN_MAY">&#160;Brian May</string>
+
+    <string name="OPTIC">optic</string>
+    <string name="OPTICS">optics</string>
+
+    <string name="Y1945">1945</string>
+
+    <string name="GORILLAZ">gorillaz</string>
+    <string name="GORILAZ">gorilaz</string>
+    <string name="GORILAZZ">gorilazz</string>
+
+    <string name="APOLLO_11">apollo 11</string>
+    <string name="APOLO_11">apolo 11</string>
+    <string name="APOLO11">apolo11</string>
+    <string name="APOLLO11">apollo11</string>
+
+    <string name="Y1969">1969</string>
+
+    <string name="question7">Which country is this flag?</string>
+    <string name="question6">Which of these people weren\'t part of Queen?</string>
+    <string name="question5">Which science branch father was the Alhazen (Ibn al-Haytham)?</string>
+    <string name="question4">When did Nazi Germany capitulated (II WW)?</string>
+    <string name="question3">This British monkey band were settled down in 1998 which created song and named it one if famous actor\'s name, answer the groups name.</string>
+    <string name="question2">How was this mission called</string>
+    <string name="question1">When people first time arrived moon?</string>
+    <string name="result">Result :</string>
+    <string name="next">Next</string>
+    <string name="Begin">Begin</string>
+
+    <string name="Q1Hint">End\'s up with 9</string>
+    <string name="Q2Hint">Start\'s up with A</string>
+    <string name="Q3Hint">Start\'s up with G</string>
+    <string name="Q4Hint">End\'s up with 5</string>
+    <string name="Q5Hint">Look at the picture</string>
+
+    <string name="Radiobutton1">Belgium</string>
+    <string name="Radiobutton3">Mexico</string>
+    <string name="Radiobutton2">Lithuania</string>
+    <string name="Radiobutton4">Slovakia</string>
+</resources>

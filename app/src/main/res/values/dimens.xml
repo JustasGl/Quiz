@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="resultSize">50sp</dimen>
+    <dimen name="marginleft">16dp</dimen>
+    <dimen name="marginTopofTile">25dp</dimen>
+    <dimen name="marginRight">16dp</dimen>
+    <dimen name="marginLeftBigger">20dp</dimen>
+    <dimen name="marginLeftSmaller">12dp</dimen>
+    <dimen name="Imagesize">300dp</dimen>
+    <dimen name="marginTopofImage">32dp</dimen>
+    <dimen name="marginTopofText">8dp</dimen>
+    <dimen name="Textsize">16sp</dimen>
+    <dimen name="marginBottomofButton">32dp</dimen>
+    <dimen name="widthForWeight">0dp</dimen>
+</resources>
